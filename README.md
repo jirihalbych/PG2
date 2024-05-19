@@ -3,7 +3,7 @@
 Potřeba irrKlang, libpng, glfw3, glm, glew, cmake 3.27+
 
 Psáno pro linux (Archlinux) CMAKE - 3.27+, teoreticky by mělo jít zkompilovat všude
-Instalace:
+Instalace:  
 1. Naklonujte repo
 2. Nainstalujte na systém libpng, glfw3, glm, glew - (CMAKE si na linuxu cestu k nim najde sám, irrKlang je součástí repa)
 3. Ve šložce spusťe cmake .
