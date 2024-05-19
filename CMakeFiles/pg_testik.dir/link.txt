@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pg_testik.dir/app.cpp.o -o pg_testik  -Wl,-rpath,/home/ren/semestralka-PG/bin/linux-gcc /usr/lib/libpng.so /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/libGLEW.so /usr/lib/libglfw.so.3.4 bin/linux-gcc/libIrrKlang.so
