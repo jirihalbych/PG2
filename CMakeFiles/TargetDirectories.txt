@@ -1,3 +1,0 @@
-/home/ren/semestralka-PG/CMakeFiles/pg_testik.dir
-/home/ren/semestralka-PG/CMakeFiles/edit_cache.dir
-/home/ren/semestralka-PG/CMakeFiles/rebuild_cache.dir
