@@ -1,8 +1,8 @@
 #Semínárka PG2  
 
-Potřeba irrKlang, libpng, glfw3, glm, glew, cmake 3.27
+Potřeba irrKlang, libpng, glfw3, glm, glew, cmake 3.27+
 
-Psáno pro linux (Archlinux) CMAKE - 3.27, teoreticky by mělo jít zkompilovat všude
+Psáno pro linux (Archlinux) CMAKE - 3.27+, teoreticky by mělo jít zkompilovat všude
 Instalace:
 1. Naklonujte repo
 2. Nainstalujte na systém libpng, glfw3, glm, glew - (CMAKE si na linuxu cestu k nim najde sám, irrKlang je součástí repa)
